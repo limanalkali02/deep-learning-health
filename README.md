@@ -22,6 +22,27 @@ The application includes patient health profiles, cardiovascular risk assessment
 - **Model Retraining Interface:** Access the model retraining workflow provided by the application.
 - **Authentication:** Sign-up, login, and protected routes.
 - **Role-Based Interfaces:** Separate patient, provider, and administrator experiences.
+## Screenshots
+
+### 1. Landing Page & Account Registration
+
+Choose a role and create an account to get started.
+
+![HealthRec landing page and account registration](screenshots/landing-page.png)
+
+### 2. Patient Dashboard
+
+View the patient dashboard, health profile status, cardiovascular risk score, and quick actions.
+
+![HealthRec patient dashboard](screenshots/patient-dashboard.png)
+
+### 3. Cardiovascular Disease Risk Assessment
+
+Explore the displayed risk score and the feature-importance explanation.
+
+![HealthRec cardiovascular disease risk assessment](screenshots/cvd-risk-assessment.png)
+
+
 
 ## Technology Stack
 
